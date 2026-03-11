@@ -1,8 +1,1 @@
-### Hi there 👋
-
-Thanks for stopping by my Github repository. Let me tell you something about me:
-
-- 🔭 I’m currently working on building software from the ground up
-- 🌱 I’m currently learning design patterns
-- ⚡ Fun fact: love to read/build/tweak things!
-
+*We live in this world only temporarily—passing through, leaving our mark, and preparing for what comes after.* 🌍✨
